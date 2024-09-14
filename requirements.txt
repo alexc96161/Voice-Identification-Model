@@ -1,0 +1,7 @@
+numpy
+librosa
+pydub
+matplotlib
+joblib
+tensorflow
+pydot
