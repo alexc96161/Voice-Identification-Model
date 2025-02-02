@@ -10,5 +10,5 @@ To install prerequisite libraries, use ``pip install -r requirements.txt``. Test
 
 
 Notes:  
-The best '.keras' model could not be uploaded due to the github 100MB limit. You can generate a new best model by running VoiceReg.py  
-This code was upgraded to use the latest versions of the libraries, hence the old best model
+The current model could not be uploaded due to the github 100MB limit. You can generate a new best model by running VoiceReg.py  
+This code was updated to use python 3.12 and assosiated libraries. The old best model was from multiple library/python versions ago.
